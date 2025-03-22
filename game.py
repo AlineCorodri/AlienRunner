@@ -1,9 +1,10 @@
 import pygame
 from const import *
 from player import Player
+from enemy import Obstacle  # Certifique-se de que o caminho está correto
 
 pygame.init()
-screen = pygame.display.set_mode((tela_largura, tela_altura))
+window = pygame.display.set_mode((WIN_WIDTH, WIN_HEIGHT))
 clock = pygame.time.Clock()
 
 all_sprites = pygame.sprite.Group()
@@ -15,12 +16,14 @@ running = True
 while running:
     clock.tick(fps)
 
+    print("Game is running...")  # Mensagem para verificar se o loop está em execução
+
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
         if event.type == pygame.KEYDOWN:
             if event.key == pygame.K_SPACE:
-                player.pular()
+                player.jump()
 
     # Gerar obstáculos aleatórios
     if random.randint(1, 100) > 98:
@@ -32,11 +35,11 @@ while running:
 
     # Colisão
     if pygame.sprite.spritecollide(player, obstacles, False):
-        print("Game Over!")
+        print("Game Over!")  # Verifica se houve colisão
         running = False
 
-    screen.fill(branco)
-    all_sprites.draw(screen)
+    window.fill(WHITE)
+    all_sprites.draw(window)
     pygame.display.flip()
 
 pygame.quit()

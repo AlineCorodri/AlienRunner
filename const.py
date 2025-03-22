@@ -1,6 +1,4 @@
-# General game settings
-
-# Colors
+# game settings
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 BLUE = (0, 0, 255)
@@ -9,3 +7,7 @@ BLUE = (0, 0, 255)
 WIN_WIDTH = 800
 WIN_HEIGHT = 400
 fps = 60
+
+# Physics settings
+GRAVITY = 1
+GROUND_Y = 300

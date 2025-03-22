@@ -1,12 +1,14 @@
 import random
 import pygame
 
+from const import BLACK
+
 
 class Obstacle(pygame.sprite.Sprite):
     def __init__(self):
         super().__init__()
         self.image = pygame.Surface((30, 30))
-        self.image.fill(preto)
+        self.image.fill(BLACK)
         self.rect = self.image.get_rect()
         self.rect.x = 800
         self.rect.y = 320
