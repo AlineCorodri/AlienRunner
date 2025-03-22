@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="392b29ea-6586-48dd-abea-c8cce7e16f02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AlienRunner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/enemy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/enemy10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/enemy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/enemy3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/enemy4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/enemy5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/enemy6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/enemy7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/enemy8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/enemy9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level1Bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level1Bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level1Bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level1Bg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level1Bg5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level1Bg6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level1Bg7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level2Bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level2Bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level2Bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level2Bg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level2Bg5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level2Bg6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level2Bg7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level3Bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level3Bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level3Bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level3Bg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level3Bg5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level3Bg6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/level3Bg7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pulo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/score.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/score.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/const.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enemys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ufowQ0yE4y8J4lacUyhY6drPst" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aline\OneDrive\Área de Trabalho\Linguagem de programação aplicada\TRABALHO ALIEN\AlienRunner\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="AlienRunner" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="392b29ea-6586-48dd-abea-c8cce7e16f02" name="Changes" comment="" />
+      <created>1742649227786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742649227786</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
