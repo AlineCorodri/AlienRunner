@@ -2,6 +2,14 @@
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 BLUE = (0, 0, 255)
+GREEN_BLACK = (0, 100, 0)
+GREEN = (0, 255, 0)
+
+# Menu
+
+MENU_OPTION = ('PLAY',
+               'SCORE',
+               'EXIT')
 
 # Screen settings
 WIN_WIDTH = 800
