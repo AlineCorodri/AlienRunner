@@ -53,6 +53,8 @@ class Menu:
                     quit()
 
     def menu_text(self, text_size: int, text: str, text_color: tuple, text_center_pos: tuple):
+        if not isinstance(text, str):
+            text = str(text)
         text_font: Font = pygame.font.Font('./assets/game_over.ttf', size=text_size)
         text_surf: Surface = text_font.render(text, True, text_color).convert_alpha()
         text_rect: Rect = text_surf.get_rect(center=text_center_pos)
