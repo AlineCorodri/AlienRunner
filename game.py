@@ -1,4 +1,5 @@
 import pygame
+import sys
 from menu import Menu
 from level import Level  # Importa o arquivo do nível
 
@@ -20,8 +21,3 @@ class Game:
                 self.running = False  # Sai do jogo
 
         pygame.quit()
-
-# Executa o jogo
-if __name__ == "__main__":
-    game = Game()
-    game.run()
